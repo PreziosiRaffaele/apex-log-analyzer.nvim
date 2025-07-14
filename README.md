@@ -1,10 +1,12 @@
 # Apex Log Analyzer for Neovim
 
-This plugin provides commands to analyze Apex logs within Neovim.
+This plugin was created to provide an Apex debug log analyzer in Neovim for Salesforce developers. It takes inspiration from a well-known extension that analyzes logs in VSCode: https://github.com/certinia/debug-log-analyzer
 
-## Features
+## Feature
 
 -   Generate an execution tree from an Apex log file (`:ApexLogTree`).
+
+<img width="1514" height="678" alt="image" src="https://github.com/user-attachments/assets/ce5d9507-3602-4c8a-82b3-a0a49334964b" />
 
 ## Prerequisites
 
