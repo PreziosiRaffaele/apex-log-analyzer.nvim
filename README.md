@@ -49,3 +49,4 @@ Add the following to your `lazy.nvim` configuration:
 1.  Open an Apex log file in Neovim.
 2.  Run the command `:ApexLogTree`.
 3.  A new split will open with the execution tree.
+4.  In the tree view, press Enter on any line containing an event ID (e.g., `DML(00005)`) to open a floating window with the raw JSON details for that event. Press `q` to close the floating window.
